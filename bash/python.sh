@@ -1,1 +1,1 @@
-ps -ef | grep 'pyright|pylance'
+ps -ef | grep 'pyright-langserver\|ms-python.vscode-pylance'
